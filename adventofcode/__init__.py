@@ -1,1 +1,1 @@
-from .inverse_captcha import inverse_captcha
+from .inverse_captcha import *
